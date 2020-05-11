@@ -1,0 +1,10 @@
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\bin\Debug\AttendanceTracker.exe.config
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\bin\Debug\AttendanceTracker.exe
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\bin\Debug\AttendanceTracker.pdb
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.csprojAssemblyReference.cache
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.Tracker.resources
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.Properties.Resources.resources
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.csproj.GenerateResource.cache
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.csproj.CoreCompileInputs.cache
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.exe
+C:\Users\ThatR\source\repos\AttendanceTracker\AttendanceTracker\obj\Debug\AttendanceTracker.pdb
